@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "GitHub-Test", "GitHub-Test\GitHub-Test.hmiproj", "{E34D9E5C-9AD1-4E8C-90EC-B62D1CB413A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34D9E5C-9AD1-4E8C-90EC-B62D1CB413A9}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{E34D9E5C-9AD1-4E8C-90EC-B62D1CB413A9}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{E34D9E5C-9AD1-4E8C-90EC-B62D1CB413A9}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{E34D9E5C-9AD1-4E8C-90EC-B62D1CB413A9}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBCD4ED-B858-434D-ADA6-27EDE42FED17}
+	EndGlobalSection
+EndGlobal
