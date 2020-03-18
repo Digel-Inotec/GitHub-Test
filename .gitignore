@@ -694,4 +694,9 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/twincat
 /.engineering_servers/HMI
 HMI.project.~u
-/.engineering_servers/GitHub-Test
+/.engineering_servers/GitHub-Test/historize.db
+/.engineering_servers/GitHub-Test/historize.db-journal
+/.engineering_servers/GitHub-Test/logger.db
+/.engineering_servers/GitHub-Test/tchmi.framework.Schema.json
+/.engineering_servers/GitHub-Test/tchmi.project.Schema.json
+/.engineering_servers/GitHub-Test/TcHmiSrv.pid
