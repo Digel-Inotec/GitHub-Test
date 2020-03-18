@@ -37,4 +37,8 @@
 
 </div>
 
+<div id="TcHmiToggleButton" data-tchmi-type="tchmi-toggle-button" data-tchmi-height="50" data-tchmi-height-unit="px" data-tchmi-left="576" data-tchmi-left-unit="px" data-tchmi-text="TcHmiToggleButton" data-tchmi-top="382" data-tchmi-top-unit="px" data-tchmi-width="100" data-tchmi-width-unit="px" data-tchmi-word-wrap="True">
+
+</div>
+
 </div>
